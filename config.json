@@ -1,0 +1,38 @@
+{
+    "token": "put your token here",
+    "target": {
+        "id": -111111,
+        "is_admin": 1,
+        "link": "public111111",
+        "name": "Public 111111",
+        "type": "group"
+    },
+    "count": 9554,
+    "dd": {
+        "banned": [
+            {
+                "deactivated": "banned",
+                "first_name": "user name",
+                "last_name": "user last name",
+                "uid": 430728
+            }
+        ],
+        "count": 1,
+        "deleted": [
+            {
+                "deactivated": "deleted",
+                "first_name": "user name",
+                "last_name": "user last name",
+                "uid": 78264164
+            }
+        ]
+    },
+    "errors": {
+        "all": [],
+        "tmr": []
+    },
+    "offset": 9600,
+    "req": 192,
+    "simple": false,
+    "step": 100
+}
