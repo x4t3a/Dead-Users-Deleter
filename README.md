@@ -17,7 +17,7 @@ How to get an access token
 NB: keep the token in secret, as its holder gets the full access to your account!
   1. Follow [this link](https://oauth.vk.com/authorize?client_id=6059559&scope=notify,friends,photos,audio,video,docs,wall,notes,notifications,stats,ads,offline,status,groups&redirect_uri=https://oauth.vk.com/blank.html&display=page&response_type=token);
   2. Agree with the terms;
-  3. When redirected, get the token from the address bar;
+  3. When redirected, get the token from the address bar.
 
 
 How to get the list of the "dead" users
